@@ -18,26 +18,51 @@ With a decade of experience in software engineering, I'm a Full Stack developer 
 
 ## 🛠️ Tech Stack
 
-- **Languages**:
-  - TypeScript, Kotlin (Expert)
-  - JavaScript, Java, Python (Proficient)
+<details open>
+<summary>🚀 Languages</summary>
 
-- **AI/ML**:
-  - Langchain, Agentic frameworks, Agent prompting
+- **Expert:** TypeScript, Kotlin
+- **Proficient:** JavaScript, Java, Python
 
-- **Back-End**:
-  - Nest.js, Express.js (Expert)
-  - Spring Boot (Proficient)
-  - PostgreSQL, MongoDB
-  - REST, GraphQL
+</details>
 
-- **Front-End**:
-  - React.js (Expert)
-  - Redux, Context API
-  - Material-UI
+<details>
+<summary>🧠 AI/ML</summary>
 
-- **Cloud & DevOps**:
-  - AWS, Kubernetes, Docker, CI/CD
+- Langchain
+- Agentic frameworks
+- Agent prompting
+
+</details>
+
+<details>
+<summary>🔧 Back-End</summary>
+
+- **Expert:** Nest.js, Express.js
+- **Proficient:** Spring Boot
+- **Databases:** PostgreSQL, MongoDB
+- **APIs:** REST, GraphQL
+
+</details>
+
+<details>
+<summary>🎨 Front-End</summary>
+
+- **Expert:** React.js
+- **State Management:** Redux, Context API
+- **UI Framework:** Material-UI
+
+</details>
+
+<details>
+<summary>☁️ Cloud & DevOps</summary>
+
+- AWS
+- Kubernetes
+- Docker
+- CI/CD
+
+</details>
 
 ## 📊 GitHub Stats
 
